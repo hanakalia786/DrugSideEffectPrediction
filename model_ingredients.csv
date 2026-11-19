@@ -1,0 +1,1364 @@
+ingredient_id,rxnorm_name
+283742,esomeprazole
+83367,atorvastatin
+18993,benzonatate
+19831,budesonide
+237159,levalbuterol
+2556,citalopram
+3355,diclofenac
+11289,warfarin
+7531,nortriptyline
+61381,olanzapine
+2193,ceftriaxone
+5487,hydrochlorothiazide
+40254,valproate
+231049,eletriptan
+51272,quetiapine
+25480,gabapentin
+1731071,fosaprepitant
+4493,fluoxetine
+8152,phentermine
+407990,cinacalcet
+6809,metformin
+4278,famotidine
+6835,methimazole
+52175,losartan
+5553,hydroxyzine
+15657,decitabine
+10324,tamoxifen
+41493,meloxicam
+6676,meclizine
+41126,fluticasone
+136411,sildenafil
+5640,ibuprofen
+10737,trazodone
+3264,dexamethasone
+3361,dicyclomine
+77492,tamsulosin
+36437,sertraline
+2191,ceftazidime
+3638,doxepin
+10169,sulfacetamide
+9997,spironolactone
+38404,topiramate
+37801,terbinafine
+8183,phenytoin
+39993,zolpidem
+6915,metoclopramide
+140587,celecoxib
+7646,omeprazole
+10689,tramadol
+596,alprazolam
+21949,cyclobenzaprine
+114477,levetiracetam
+435,albuterol
+17767,amlodipine
+194000,capecitabine
+7804,oxycodone
+33738,pioglitazone
+18631,azithromycin
+4603,furosemide
+25037,cefdinir
+24605,etodolac
+614373,deferasirox
+72625,duloxetine
+281,acyclovir
+39786,venlafaxine
+35636,risperidone
+519,allopurinol
+37418,sumatriptan
+8704,prochlorperazine
+167,acetazolamide
+430,albendazole
+26225,ondansetron
+82122,levofloxacin
+2403,chlorpromazine
+2101,carisoprodol
+10390,tetrabenazine
+2599,clonidine
+10582,levothyroxine
+723,amoxicillin
+35296,ramipril
+17128,lansoprazole
+35208,quinapril
+3640,doxycycline
+6922,metronidazole
+10156,sucralfate
+356887,levocetirizine
+20352,carvedilol
+42372,mupirocin
+99,6-aminocaproic acid
+7258,naproxen
+73645,valacyclovir
+6185,labetalol
+18867,benazepril
+38400,atomoxetine
+5521,hydroxychloroquine
+11124,vancomycin
+141704,everolimus
+32624,oxcarbazepine
+1356552,perampanel
+1592254,pirfenidone
+31555,nebivolol
+52582,mesalamine
+19552,cefprozil
+2551,ciprofloxacin
+85762,ritonavir
+8703,fenofibrate
+3498,diphenhydramine
+5492,hydrocortisone
+135447,donepezil
+6387,lidocaine
+5781,indomethacin
+6691,medroxyprogesterone
+1373478,dimethyl fumarate
+190376,linezolid
+25789,glimepiride
+2626,clozapine
+68147,cetrorelix
+6813,methadone
+32937,paroxetine
+88014,rizatriptan
+282446,posaconazole
+1998,captopril
+257844,mefenamate
+42347,bupropion
+29561,meropenem
+18747,balsalazide
+35302,sirolimus
+59943,imiquimod
+42463,pravastatin
+321988,escitalopram
+1649480,ivabradine
+2231,cephalexin
+6960,midazolam
+341248,ezetimibe
+42316,tacrolimus
+6964,mifepristone
+3389,diethylpropion
+321064,olmesartan
+29046,lisinopril
+260101,oseltamivir
+4678,ganciclovir
+8640,prednisone
+358263,tadalafil
+2590,clobetasol
+6901,methylphenidate
+4083,estradiol
+49276,doxazosin
+1543173,tavaborole
+82819,acamprosate
+5224,heparin
+4018,ergocalciferol
+10763,triamterene
+1251,azacitidine
+6851,methotrexate
+8638,prednisolone
+40790,pantoprazole
+6719,memantine
+342369,lenalidomide
+2598,clonazepam
+7243,naltrexone
+103,mercaptopurine
+258494,exemestane
+6845,methocarbamol
+2541,cimetidine
+32675,oxybutynin
+461016,eszopiclone
+1482502,eslicarbazepine
+7052,morphine
+10600,timolol
+591622,varenicline
+8727,progesterone
+358274,ambrisentan
+32968,clopidogrel
+4450,fluconazole
+83818,irbesartan
+8745,promethazine
+36567,simvastatin
+704,amitriptyline
+301542,rosuvastatin
+134748,rasagiline
+266604,metyrosine
+84857,anastrozole
+9524,sulfasalazine
+7242,naloxone
+121243,voriconazole
+2105,carmustine
+187832,pregabalin
+1292,baclofen
+596724,anagrelide
+2447,cholestyramine resin
+10627,tobramycin
+14851,vigabatrin
+69036,rufinamide
+1223,atropine
+725,amphetamine
+22299,daptomycin
+7315,neostigmine
+275635,desloratadine
+68139,rocuronium
+114979,rabeprazole
+57258,tizanidine
+10395,tetracycline
+3443,diltiazem
+306266,entecavir
+68244,lamivudine
+43611,latanoprost
+2683,colchicine
+4496,fluphenazine
+4492,fluorouracil
+4821,glipizide
+56946,paclitaxel
+623033,lubiprostone
+73044,repaglinide
+42351,lithium carbonate
+89013,aripiprazole
+596205,ramelteon
+7454,nitrofurantoin
+139462,moxifloxacin
+28439,lamotrigine
+35827,ketorolac
+5470,hydralazine
+72302,ropinirole
+40048,carboplatin
+5021,griseofulvin
+12574,gemcitabine
+11170,verapamil
+6926,mexiletine
+1827,buspirone
+42331,misoprostol
+1202,atenolol
+733,ampicillin
+6064,isotretinoin
+325642,ertapenem
+6218,lactulose
+2409,chlorthalidone
+4502,flurbiprofen
+300195,tenofovir disoproxil
+68149,mycophenolate mofetil
+7994,pentamidine
+69749,valsartan
+10800,trifluoperazine
+10759,triamcinolone
+73710,paricalcitol
+1546438,glycopyrronium
+10355,temazepam
+72965,letrozole
+6468,loperamide
+190521,abacavir
+31448,nabumetone
+4917,nitroglycerin
+44,mesna
+25025,finasteride
+72962,docetaxel
+135775,zolmitriptan
+1256,azathioprine
+6918,metoprolol
+8356,piroxicam
+1658314,brexpiprazole
+38413,torsemide
+1116632,ticagrelor
+38409,toremifene
+3131,deferoxamine
+4441,flecainide
+2194,cefuroxime
+10834,trimipramine
+8787,propranolol
+37798,terazosin
+10368,terbutaline
+1819,buprenorphine
+7145,mycophenolic acid
+484348,omega-3 acid ethyl esters (USP)
+214354,candesartan
+7396,nicardipine
+283809,travoprost
+68446,pemetrexed
+75207,bosentan
+9793,silver sulfadiazine
+358258,bortezomib
+402316,miglustat
+7417,nifedipine
+40114,guanfacine
+89785,methscopolamine
+6058,isosorbide dinitrate
+1304974,icosapent ethyl
+31565,nefazodone
+3407,digoxin
+9143,ranitidine
+2002,carbamazepine
+10237,sulindac
+9384,rifampin
+9344,ribavirin
+1514,betamethasone
+5032,guaifenesin
+42319,nizatidine
+1424,benztropine
+7514,norethindrone
+15996,mirtazapine
+3992,epinephrine
+221147,polyethylene glycol 3350
+6038,isoniazid
+4501,flurazepam
+4337,fentanyl
+9386,rimantadine
+33272,phendimetrazine
+74667,zaleplon
+7597,nystatin
+6694,mefloquine
+19484,bisoprolol
+115698,ziprasidone
+816346,dexlansoprazole
+8698,probenecid
+1100072,abiraterone
+62427,ursodeoxycholate
+4719,gemfibrozil
+10154,succinylcholine
+10171,sulfadiazine
+194881,brinzolamide
+28031,itraconazole
+4135,ethosuximide
+10473,thiotepa
+618278,azelate
+25126,fluocinolone
+214824,sevelamer
+108118,mometasone
+195085,efavirenz
+35623,riluzole
+2189,cefoxitin
+21212,clarithromycin
+8134,phenobarbital
+6984,minoxidil
+61805,nitisinone
+352372,dexmethylphenidate
+16818,acitretin
+6472,lovastatin
+2653,cocaine
+2019,carbidopa
+73056,risedronate
+11248,vitamin B12
+4462,fluocinonide
+9947,sotalol
+1310520,teriflunomide
+1808,bumetanide
+620,amantadine
+10438,theophylline
+8076,perphenazine
+1037042,dabigatran etexilate
+2582,clindamycin
+59763,stavudine
+8463,podofilox
+2596,clomiphene
+593411,sitagliptin
+2578,clemastine
+60207,dorzolamide
+1086769,vilazodone
+1729002,selexipag
+11413,zidovudine
+23043,difluprednate
+319864,cisatracurium
+623400,lacosamide
+41127,fluvastatin
+1012892,fingolimod
+19737,bromfenac
+6902,methylprednisolone
+73494,telmisartan
+1040028,lurasidone
+6475,loxapine
+47579,cabergoline
+4637,galantamine
+1815,bupivacaine
+337525,erlotinib
+620216,maraviroc
+3423,hydromorphone
+1894,calcitriol
+59078,metaxalone
+753340,sapropterin
+73689,febuxostat
+7623,ofloxacin
+10612,tinidazole
+343048,treprostinil
+861634,pitavastatin
+703,amiodarone
+3105,dantrolene
+21241,clobazam
+8794,propylthiouracil
+3827,enalapril
+233272,bexarotene
+613391,prasugrel
+9010,pyrimethamine
+6130,ketamine
+141366,naratriptan
+41208,halobetasol
+53654,nevirapine
+4500,flurandrenolide
+6703,megestrol
+4815,glyburide
+141626,colesevelam
+275891,valganciclovir
+36108,salsalate
+9800,sincalide
+8700,procainamide
+214342,calcium acetate
+10402,dronabinol
+3251,desmopressin
+39998,zonisamide
+306674,vardenafil
+44281,cevimeline
+6398,lincomycin
+7238,nalbuphine
+4457,flumazenil
+88249,montelukast
+18603,azelastine
+36453,sevoflurane
+46041,alendronate
+325887,micafungin
+8120,phenazopyridine
+5691,imipramine
+662281,nilotinib
+4099,"estrogens, conjugated (USP)"
+115264,ibandronate
+7226,nadolol
+1622,bleomycin
+37776,temozolomide
+9071,quinine
+72143,raloxifene
+20481,cefepime
+83947,tazarotene
+140108,caspofungin
+3002,cyclophosphamide
+3393,diflunisal
+8328,pilocarpine
+11516,doxercalciferol
+236778,trospium
+3639,doxorubicin
+228790,dutasteride
+495881,sorafenib
+3356,dicloxacillin
+25255,formoterol
+1114195,rivaroxaban
+27169,leflunomide
+9639,selegiline
+149,acebutolol
+2107310,prucalopride
+3098,dacarbazine
+42736,dexrazoxane
+8163,phenylephrine
+21107,cilostazol
+10814,liothyronine
+60223,adapalene
+197,acetylcysteine
+304962,arformoterol
+700810,lisdexamfetamine
+5552,hydroxyurea
+42355,fluvoxamine
+7975,penicillamine
+32613,oxaprozin
+863035,bepotastine
+2555,cisplatin
+6673,mecamylamine
+72937,tolcapone
+7980,penicillin G
+4110,ethambutol
+60212,atovaquone
+2597,clomipramine
+25033,cefixime
+10753,tretinoin
+10379,testosterone
+3013,cyproheptadine
+1244607,tafluprost
+4451,flucytosine
+30125,modafinil
+3007,cycloserine
+33910,isradipine
+7773,oxacillin
+274332,nateglinide
+29365,calcipotriene
+36118,salmon calcitonin
+6916,metolazone
+37806,terconazole
+2180,cefazolin
+31805,nilutamide
+3322,diazepam
+322167,solifenacin
+1489913,droxidopa
+60307,entacapone
+42612,cromolyn
+732,amphotericin B
+183379,rivastigmine
+1272,aztreonam
+2177,cefadroxil
+10734,tranylcypromine
+1091836,roflumilast
+2396,chlorothiazide
+24812,felbamate
+33199,permethrin
+5093,haloperidol
+460132,darunavir
+857974,saxagliptin
+3108,dapsone
+711942,eltrombopag
+6963,midodrine
+10767,triazolam
+357977,sunitinib
+480167,lapatinib
+3255,desoximetasone
+6765,tiopronin
+4053,erythromycin
+7213,ipratropium
+384455,tigecycline
+4077,estazolam
+6754,meperidine
+4832,glucagon
+321952,pimecrolimus
+26237,granisetron
+1841,butorphanol
+8754,propafenone
+39954,zinc sulfate
+641465,armodafinil
+1368001,alogliptin
+50166,fosinopril
+8597,potassium iodide
+47858,methsuximide
+134547,bendamustine
+1760,bromocriptine
+38685,trimethobenzamide
+2623,clotrimazole
+114970,zafirlukast
+2685,colestipol
+20489,cefpodoxime
+10691,tranexamic acid
+475342,dasatinib
+6718,melphalan
+1539239,dalbavancin
+746741,pramipexole
+6980,minocycline
+20610,cetirizine
+6373,levonorgestrel
+83008,bicalutamide
+3008,cyclosporine
+6876,methyldopa
+6026,isoflurane
+5764,indapamide
+22396,deflazacort
+632,mitomycin
+282388,imatinib
+9068,quinidine
+1364430,apixaban
+1492727,apremilast
+28863,lofexidine
+73178,iloperidone
+52105,lithium citrate
+3288,dextroamphetamine
+298869,eplerenone
+10811,trihexyphenidyl
+3521,dipyridamole
+644,amiloride
+720825,silodosin
+4550,fosfomycin
+3353,dichlorphenamide
+60819,bivalirudin
+2393,chloroquine
+722,amoxapine
+6135,ketoconazole
+3247,desipramine
+343047,atazanavir
+2387302,oxybate
+31914,tiagabine
+67108,enoxaparin
+276237,emtricitabine
+6142,ketoprofen
+32592,oxaliplatin
+10829,trimethoprim
+10510,thiothixene
+7233,nafcillin
+16521,adefovir
+6378,levorphanol
+68099,famciclovir
+8691,primidone
+1291301,avanafil
+7393,niacin
+279645,almotriptan
+7617,octreotide
+6826,methazolamide
+7814,oxymorphone
+119565,tolterodine
+3364,didanosine
+54552,perindopril
+8332,pindolol
+2176,cefaclor
+6847,methohexital
+7005,mitoxantrone
+11645,deferiprone
+1919083,midostaurin
+135391,olopatadine
+3102,danazol
+6313,leucovorin
+56512,sodium polystyrene sulfonate
+6904,methyltestosterone
+86009,insulin lispro
+38454,trandolapril
+6470,lorazepam
+8987,pyrazinamide
+1422,benzphetamine
+8013,pentoxifylline
+4331,fenoprofen
+2670,codeine
+42955,levocarnitine
+6057,isosorbide
+83682,cefditoren
+2564146,fexinidazole
+234416,lanthanum carbonate
+49247,dofetilide
+6816,methamphetamine
+11149,vasopressin (USP)
+134615,brimonidine
+5542,17-alpha-hydroxyprogesterone
+3100,dactinomycin
+719872,raltegravir
+6579,magnesium chloride
+877510,romidepsin
+358257,tolvaptan
+283810,bimatoprost
+714438,pazopanib
+1520,betaxolol
+62349,ethacrynate
+6854,methoxsalen
+1594675,ferric citrate
+6883,methylergonovine
+57308,topotecan
+299081,spinosad
+6069,ivermectin
+1791685,pimavanserin
+48937,dexmedetomidine
+358255,aprepitant
+5657,ifosfamide
+8123,phenelzine
+20220,carbinoxamine
+2376944,levamlodipine
+784649,asenapine
+2878,cortisone
+1488564,dapagliflozin
+3154,demeclocycline
+7781,oxazepam
+228476,gatifloxacin
+85248,alosetron
+8628,praziquantel
+14845,apraclonidine
+81647,phenylbutyrate
+228783,frovatriptan
+8687,primaquine
+475969,etravirine
+3541,disopyramide
+8331,pimozide
+30131,moexipril
+2186,cefotaxime
+73032,remifentanil
+4850,glucose
+1369713,pomalidomide
+1739745,brivaracetam
+44157,cladribine
+59839,penciclovir
+877015,levoleucovorin
+30009,miglitol
+9000,pyridostigmine
+7934,paromomycin
+274783,insulin glargine
+7426,nimodipine
+1813,levobunolol
+87636,fexofenadine
+27340,desflurane
+4986,chorionic gonadotropin
+358262,fosamprenavir
+328134,gefitinib
+1656052,cangrelor
+7019,molindone
+24698,fludarabine
+18994,benznidazole
+9913,sodium tetradecyl sulfate
+1908,calcium gluconate
+325646,aliskiren
+3327,diazoxide
+401713,carglumic acid
+10323,talc
+6760,meprobamate
+2187,cefotetan
+10502,thioridazine
+1801820,lifitegrast
+3418,dihydroergotamine
+7676,opium
+2116,carteolol
+2198359,pretomanid
+1490468,tasimelteon
+6672,mebendazole
+4440,flavoxate
+4491,fluorometholone
+51428,"insulin aspart, human"
+4179,etoposide
+10109,streptomycin
+8629,prazosin
+4952,thyrotropin alfa
+16681,acarbose
+2358,chlorhexidine
+108088,alclometasone
+17652,amcinonide
+91311,diflorasone
+221050,"BCG, live, Tice strain"
+7824,oxytocin
+19257,bethanechol
+9945,sorbitol
+684879,pyridoxine
+8153,phentolamine
+7299,neomycin
+5514,hydroxocobalamin
+32638,oxiconazole
+6932,miconazole
+55672,rifabutin
+31435,valrubicin
+1886,caffeine
+22697,dexchlorpheniramine
+2348,chloramphenicol
+10122,strontium
+1863556,nusinersen
+105694,epoetin alfa
+4328,fenfluramine
+1491625,metreleptin
+72435,anakinra
+136198,darifenacin
+OMOP999665,Catumaxomab
+OMOP3095289,Baricitinib
+2272107,avapritinib
+2265678,voxelotor
+1723735,ixazomib
+712566,ofatumumab
+224905,trastuzumab
+1603296,lenvatinib
+1873916,ribociclib
+2123126,romosozumab
+253337,bevacizumab
+OMOP993691,Eptotermin alfa
+1991302,semaglutide
+1091643,azilsartan
+1665496,rolapitant
+1918231,niraparib
+327361,adalimumab
+1745099,ixekizumab
+25357,follitropin beta
+2274803,Teprotumumab
+61148,somatropin
+1011650,pegloticase
+1006250,"Influenza Virus Vaccine, Inactivated A-California-07-2009 X-181 (H1N1) strain"
+OMOP5042938,Imlifidase
+1427222,parathyroid hormone
+134527,nelfinavir
+4257,factor VIII
+83395,saquinavir
+2105845,glasdegib
+2049106,encorafenib
+2597054,vipivotide tetraxetan
+640062,regadenoson
+2584304,asciminib
+274771,nelarabine
+191831,infliximab
+1995537,voretigene neparvovec
+2391541,satralizumab
+2261783,diroximel fumarate
+2471078,tirbanibulin
+1368451,glycerol phenylbutyrate
+1876597,naldemedine
+4249,factor IX
+190353,daclizumab
+338036,pegfilgrastim
+1601374,palbociclib
+1433868,dolutegravir
+595060,ranibizumab
+1670007,insulin degludec
+1535218,siltuximab
+475968,liraglutide
+1482790,simeprevir
+2571859,fluciclovine
+679314,paliperidone
+214555,etanercept
+2056691,fremanezumab
+2055655,damoctocog alfa pegol
+68442,filgrastim
+1597876,nivolumab
+OMOP994736,Ataluren
+1747556,venetoclax
+2468231,"SARS-CoV-2 (COVID-19) vaccine, mRNA spike protein"
+OMOP2721528,Vernakalant
+1812589,vonicog alfa
+1653781,eluxadoline
+2053436,tildrakizumab
+1599832,C1 esterase inhibitor
+OMOP4997512,Volanesorsen
+1659152,alirocumab
+1364105,pasireotide
+2262435,zanubrutinib
+1363268,cabozantinib
+819300,golimumab
+1665684,evolocumab
+2387834,belantamab mafodotin
+2572100,avacopan
+1298944,pertuzumab
+OMOP998559,Epoetin theta
+2265702,cefiderocol
+2532300,ponesimod
+1804260,influenza A virus (H5N1) antigen
+386938,follitropin alfa
+2591497,daridorexant
+32915,teriparatide
+1865953,crisaborole
+2536430,idecabtagene vicleucel
+60548,exenatide
+115243,temoporfin
+1855048,bezlotoxumab
+993449,denosumab
+1455099,vortioxetine
+8814,epoprostenol
+10633,tolazamide
+248123,cat hair extract
+3637,doxapram
+8886,protriptyline
+1512,betaine
+8004,pentobarbital
+1111103,fidaxomicin
+10594,ticlopidine
+588250,milnacipran
+2121085,siponimod
+4452,fludrocortisone
+3041,cytarabine
+3444,dimenhydrinate
+21249,clocortolone
+1303098,aclidinium
+4271,factor XIII
+1551291,dulaglutide
+59639,atosiban
+2601723,tirzepatide
+31479,nalmefene
+2044896,fostamatinib
+2262250,afamelanotide
+263034,panitumumab
+2540964,loncastuximab tesirine
+1721603,tenofovir alafenamide
+196102,basiliximab
+2198944,lefamulin
+2567226,belzutifan
+6711,melatonin
+1538097,vedolizumab
+1992,capsaicin
+121191,rituximab
+2361285,tucatinib
+1546450,radium
+OMOP995386,Epoetin zeta
+400008,"insulin glulisine, human"
+1100699,linagliptin
+4262,factor X
+2170226,onasemnogene abeparvovec
+1311089,defibrotide
+228656,amprenavir
+2535233,dasiglucagon
+2055641,lanadelumab
+2054252,migalastat
+1243041,ivacaftor
+2539967,dostarlimab
+1987398,axicabtagene ciloleucel
+1546357,ferric cation
+3022,cysteamine
+1430438,afatinib
+2390935,Risdiplam
+5333,histamine
+354770,natalizumab
+2045114,andexanet alfa
+1364479,lomitapide
+2045613,erenumab
+1370971,ospemifene
+1112990,ezogabine
+1364347,ponatinib
+797752,hepatitis B surface antigen vaccine
+2600867,mavacamten
+OMOP2721429,Safinamide
+473387,ferumoxytol
+901805,velaglucerase alfa
+2197878,pitolisant
+1114326,indacaterol
+1797118,dotatate
+1537034,vorapaxar
+338817,agalsidase beta
+196319,palifermin
+72257,interferon beta-1b
+1723738,necitumumab
+1545653,empagliflozin
+2099295,moxetumomab pasudotox
+1592737,nintedanib
+2590743,tebentafusp
+2055755,doravirine
+2058509,duvelisib
+1872251,brodalumab
+1608322,isavuconazonium
+2109055,tagraxofusp
+1441386,bazedoxifene
+2467540,berotralstat
+2370147,selpercatinib
+2360231,sacituzumab
+2475166,voclosporin
+1731031,lesinurad
+1989819,vestronidase alfa
+1546168,peginterferon beta-1a
+1872441,telotristat ethyl
+2105806,gilteritinib
+2049122,binimetinib
+2373951,inebilizumab
+6759,mepivacaine
+52177,loteprednol etabonate
+20859,chloroprocaine
+3254,desonide
+33747,estropipate
+237057,lepirudin
+891658,peanut allergenic extract
+2054068,mogamulizumab
+2197862,entrectinib
+2058846,galcanezumab
+2556617,piflufolastat
+1484283,sucroferric oxyhydroxide
+1988648,letermovir
+2053490,patisiran
+2359268,pemigatinib
+1593128,meningococcal group B vaccine
+5666,immunoglobulin G
+1720259,asfotase alfa
+1102270,rilpivirine
+2043855,burosumab
+2571854,ioflupane
+2571857,florbetaben
+10798,trientine
+1484911,sofosbuvir
+28144,emedastine
+1999574,apalutamide
+2394936,pralsetinib
+2587059,ropeginterferon alfa-2b
+1986438,tisagenlecleucel
+729596,methoxy polyethylene glycol-epoetin beta
+2110605,caplacizumab
+44151,clofarabine
+2282403,bempedoic acid
+119771,doripenem
+2467553,lonafarnib
+OMOP1006521,Colestilan
+1534763,albiglutide
+1659191,sonidegib
+1440856,cholic acid
+596554,vildagliptin
+70561,palonosetron
+35825,ganirelix
+1156,asparaginase
+2562811,finerenone
+1147220,vemurafenib
+2289380,selumetinib
+1545063,tafamidis
+1302966,carfilzomib
+2105628,larotrectinib
+34132,pegaspargase
+1721560,osimertinib
+1927663,delafloxacin
+OMOP1001157,Stiripentol
+1551777,naloxegol
+1300786,mirabegron
+2380373,fostemsavir
+1989100,benralizumab
+847083,ustekinumab
+1535457,ceritinib
+805573,"rotavirus vaccine, live attenuated, G1P[8] human 89-12 strain"
+1599538,edoxaban
+77655,zoledronic acid
+2586354,vosoritide
+1242806,ingenol mebutate
+2180325,darolutamide
+2166040,risankizumab
+5880,interferon alfa-2b
+448,ethanol
+1828,busulfan
+253453,peginterferon alfa-2b
+36344,selenious acid
+161,acetaminophen
+11002,urea
+18753,bamipine
+23088,dihydrocodeine
+6628,mannitol
+6832,methenamine
+40001,zopiclone
+7407,nicotine
+39541,vinorelbine
+2387277,brexucabtagene autoleucel
+39841,xylometazoline
+28889,loratadine
+6466,lomustine
+10255,suprofen
+33562,foscarnet
+51499,irinotecan
+78484,danaparoid
+10106,streptokinase
+3001,cyclopentolate
+1418,benzoyl peroxide
+259453,levobupivacaine
+11198,vinblastine
+35780,ropivacaine
+34296,potassium bicarbonate
+11295,water
+307296,etoricoxib
+762595,Salmonella typhi Ty21a live antigen
+2178390,selinexor
+1388,lindane
+4508,flutamide
+21183,citric acid
+114176,zuclopenthixol
+618974,4-aminobenzoate
+114202,lactate
+67109,dalteparin
+1085787,butylscopolamine
+29410,mebeverine
+4495,flupenthixol
+1098,argipressin
+2196092,upadacitinib
+12062,alfacalcidol
+5650,idarubicin
+10825,trimeprazine
+3289,dextromethorphan
+2890,cosyntropin
+1425,benzydamine
+2020,carbimazole
+641,amikacin
+24941,ferrous fumarate
+30077,mivacurium
+2418,cholecalciferol
+5784,indoramin
+27334,hypromellose
+7812,oxymetazoline
+3628,dopamine
+598,alprostadil
+8591,potassium chloride
+6805,metaraminol
+40138,iloprost
+8742,promazine
+3478,dinoprostone
+28382,lacidipine
+46303,amisulpride
+10635,tolbutamide
+6750,menthol
+34322,potassium phosphate
+2977,cyclizine
+30257,moxonidine
+262307,felbinac
+797541,isopropyl alcohol
+1547611,oritavancin
+2372,chlormethiazole
+113608,fusidate
+8521,polygeline
+1316105,"herpesvirus 1, human"
+5966,iopamidol
+7715,orphenadrine
+2047232,baricitinib
+689,aminophylline
+1825,buserelin
+480,alfentanil
+17300,alfuzosin
+627,amdinocillin pivoxil
+83515,eprosartan
+3256,desoxycorticosterone
+1596450,gentamicin
+8896,pseudoephedrine
+1347,beclomethasone
+1511,betahistine
+1151,ascorbic acid
+50610,goserelin
+9884,sodium iodide
+21406,ubidecarenone
+3995,epirubicin
+49737,esmolol
+11202,vincristine
+296,adenosine
+1596,bisacodyl
+10454,thiamine
+6852,methotrimeprazine
+39385,varicella-zoster immune globulin
+1988390,latanoprostene bunod
+2625,cloxacillin
+1657131,influenza A virus (H3N2) antigen
+1091,arginine
+23638,dopexamine
+1218,atracurium
+1940643,neratinib
+4816,gliclazide
+10485,thioguanine
+22178,cytomegalovirus immune globulin
+8149,phenoxybenzamine
+7512,norepinephrine
+1726988,sugammadex
+221109,"insulin, regular, pork"
+1191,aspirin
+9873,sodium fluoride
+9863,sodium chloride
+1307619,bosutinib
+6929,mianserin
+10239,sulpiride
+5509,hydroquinone
+3634,dothiepin
+828529,"albumin human, USP"
+9525,salicylic acid
+1546458,picosulfurate
+1716278,trabectedin
+7456,nitrogen
+118886,verteporfin
+29155,magnesium carbonate
+8686,prilocaine
+38782,triptorelin
+8718,procyclidine
+1005921,ulipristal
+35619,rifaximin
+2534233,tivozanib
+24947,ferrous sulfate
+3554,disulfiram
+11473,pamidronate
+974779,obinutuzumab
+10493,thiopental
+8984,pyrantel
+3616,dobutamine
+2045726,avatrombopag
+979384,North American coral snake antivenin
+83171,cidofovir
+75917,interferon beta-1a
+2062,carboxymethylcellulose
+2400,chlorpheniramine
+142438,Gentamicin Sulfate (USP)
+4177,etomidate
+4316,felodipine
+10432,thalidomide
+7984,penicillin V
+76887,quinagolide
+8702,procarbazine
+3966,ephedrine
+388084,lutropin alfa
+20063,calcium polycarbophil
+74,4-aminobenzoic acid
+8611,povidone-iodine
+5942,clioquinol
+2475077,cabotegravir
+10180,sulfamethoxazole
+1876119,etelcalcetide
+OMOP2720956,Alipogene Tiparvovec
+155046,pentosan polysulfate
+2121751,solriamfetol
+2282660,eptinezumab
+OMOP1007369,Epoetin delta
+1009,antithrombin III
+OMOP988562,Pneumococcal Purified Capsular Polysaccharides
+283821,rasburicase
+84959,imiglucerase
+644101,idursulfase
+1727455,alectinib
+3626,domperidone
+19959,acrivastine
+4511,folic acid
+1373,benperidol
+4124,ethinyl estradiol
+321208,fondaparinux
+69646,tinzaparin
+20498,celiprolol
+38574,trichloroacetaldehyde
+283838,darbepoetin alfa
+9009,pyrilamine
+798361,hepatitis A vaccine (inactivated) strain HM175
+6674,mechlorethamine
+22892,dichloralphenazone
+3477,dinoprost
+70611,linoleate
+26744,hepatitis B immune globulin
+5301,hexetidine
+2362167,opicapone
+1606274,dinutuximab
+2594468,mitapivat
+1919503,durvalumab
+1440046,lipegfilgrastim
+1232150,aflibercept
+1928588,guselkumab
+616739,rotigotine
+2284718,remdesivir
+1862579,rucaparib
+2169285,alpelisib
+58295,zinc acetate
+OMOP5042940,Tilmanocept
+236987,mangafodipir
+1442981,ibrutinib
+4256,factor VIIa
+2046360,pegvaliase
+2119365,esketamine
+1373458,canagliflozin
+2565265,anifrolumab
+1989794,emicizumab
+997261,sipuleucel-T
+1547545,pembrolizumab
+2477103,tepotinib
+1855735,olaratumab
+279950,parecoxib
+81864,alitretinoin
+2587717,efgartigimod alfa
+2472778,relugolix
+2099995,baloxavir marboxil
+1667655,cariprazine
+OMOP5040509,roxadustat
+2288236,ozanimod
+302379,omalizumab
+1306284,cobicistat
+114934,desirudin
+75635,eptifibatide
+253182,"insulin, regular, human"
+1726104,elotuzumab
+1792776,atezolizumab
+578033,galsulfase
+2265712,givosiran
+2099704,talazoparib
+282357,fulvestrant
+1597582,olaparib
+OMOP4860403,Velmanase Alfa
+262323,ibritumomab tiuxetan
+298665,nepafenac
+2058826,cemiplimab
+1440051,lixisenatide
+9835,Smallpox Vaccine
+1798288,obeticholic acid
+1442132,macitentan
+283746,tasonermin
+1876366,ocrelizumab
+2478335,evinacumab
+OMOP994306,Delamanid
+2591519,faricimab
+845525,"Japanese encephalitis virus vaccine, inactivated"
+474128,telbivudine
+1102261,telaprevir
+29998,ocriplasmin
+2604689,ganaxolone
+2268307,enfortumab
+2174090,polatuzumab vedotin
+23066,dihematoporphyrin ether
+2045371,cannabidiol
+1364468,teduglutide
+2594775,ciltacabtagene autoleucel
+2469247,setmelanotide
+1716203,patiromer
+259280,tenecteplase
+2123125,erdafitinib
+1597258,blinatumomab
+2362165,capmatinib
+1535944,coagulation factor IX recombinant immunoglobulin G1 fusion protein
+2286252,osilodrostat
+1005929,"Influenza Virus Vaccine, Inactivated A-California-07-2009 X-179A (H1N1) strain"
+2557373,somapacitan
+1923319,sarilumab
+OMOP4754814,Autologous chondrocyte spheroids
+2591404,sutimlimab
+2055906,eravacycline
+OMOP1001789,Vinflunine
+2571095,tisotumab
+2043283,ibalizumab
+2474340,Clascoterone
+2107301,ravulizumab
+2549199,amivantamab
+2282018,isatuximab
+1092437,belimumab
+1599788,secukinumab
+1307404,linaclotide
+2604578,vutrisiran
+1547220,eliglustat
+314683,"lente insulin, human"
+2103164,lorlatinib
+1147320,brentuximab vedotin
+2587789,tezepelumab
+1489914,elosulfase alfa
+631657,"insulin human, rDNA origin"
+OMOP997791,Rimonabant
+475230,degarelix
+1306286,elvitegravir
+56795,sufentanil
+1439816,riociguat
+2099289,inotersen
+1544460,idelalisib
+2047628,sodium zirconium cyclosilicate
+341018,anidulafungin
+2475830,vericiguat
+OMOP988462,Mifamurtide
+1307298,enzalutamide
+18330,arsenic trioxide
+2709,colistin
+227518,follicle stimulating hormone
+1921217,brigatinib
+1722365,cobimetinib
+1752,bromelains
+2058849,dacomitinib
+2369389,ripretinib
+1045453,eribulin
+1597381,dasabuvir
+OMOP997118,Pixantrone
+591781,eculizumab
+1726975,sebelipase alfa
+2197490,fedratinib
+1535922,ramucirumab
+2383941,remimazolam
+1720597,mepolizumab
+OMOP5047741,Bulevirtide
+1986808,acalabrutinib
+76895,reteplase
+1946825,abemaciclib
+1875534,avelumab
+1312397,regorafenib
+1942950,inotuzumab ozogamicin
+OMOP5036197,Filgotinib
+1292422,varicella-zoster virus vaccine live (Oka-Merck) strain
+1657128,influenza A virus (H1N1) antigen
+115238,becaplermin
+117055,alemtuzumab
+1603350,panobinostat
+2591476,abrocitinib
+2262279,crizanlizumab
+6375,levodopa
+1193326,ruxolitinib
+805452,romiplostim
+68503,ziconotide
+683,aminolevulinic acid
+612865,tocilizumab
+1992672,ertugliflozin
+9549,samarium
+1540825,tedizolid
+OMOP4870470,darvadstrocel
+1721947,daratumumab
+38508,treosulfan
+1148138,icatibant
+2479136,lisocabtagene maraleucel
+1364504,bedaquiline
+642274,retapamulin
+194279,palivizumab
+2204915,brolucizumab
+2262544,luspatercept
+2586068,maribavir
+1876376,dupilumab
+1922437,cerliponase
+1442193,Bos taurus eye preparation
+71535,vecuronium
+4885,glutamine
+3390,diethylstilbestrol
+3304,heroin
+19832,budipine
+89808,chloral betaine
+28894,lormetazepam
+5228,heparinoids
+56790,succinylated gelatin
+34633,propamidine
+135056,lercanidipine
+108074,clobetasone
+20877,chloroxylenol
+807219,"typhoid Vi polysaccharide vaccine, S typhi Ty2 strain"
+38260,tibolone
+4094,estriol
+2449,choline
+1605101,insulin isophane
+3920,enflurane
+21766,crotamiton
