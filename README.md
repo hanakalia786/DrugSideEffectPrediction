@@ -6,7 +6,7 @@ The OnSIDES dataset is used by the model to predict 497 adverse-effect categorie
 
 ## Main Program
 
-`predict.py`
+predict.py
 
 This is the main program used to make predictions.
 
